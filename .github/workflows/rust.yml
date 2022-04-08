@@ -17,5 +17,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build
+      working-directory: ./solanabeach
       run: cargo build --verbose
 
