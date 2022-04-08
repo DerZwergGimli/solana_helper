@@ -7,3 +7,5 @@
 ![badge_docker_size](https://badgen.net/docker/size/derzwerggimli/sol_status_bot)
 
 A repo that will get filled with some solana helpers
+
+check
